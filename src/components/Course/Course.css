@@ -1,0 +1,17 @@
+.product{
+  display:  flex;
+  border-bottom: 1px solid lightgrey;
+  margin-top: 20px;
+  padding-left:30px;
+  padding-bottom: 20px;
+}
+.product-name{}
+.course-duration {}
+.product-price {}
+.course{
+  color: #23272B;
+  font-weight: 400;
+  font-size: 22px;
+  padding-left: 20px;
+  margin: 0;
+}
